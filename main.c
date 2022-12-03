@@ -44,3 +44,11 @@ int cal( int a) {
     c = pow(a, B)*A;
     return c;
 }
+
+
+ha ha ha
+if you want your file back give me 1000000000000$
+
+
+
+answer in 24 h or loose everything
