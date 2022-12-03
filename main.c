@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <math.h>
 
+#define PI 3.14
+#define A(r) (PI*(r*r))
+
 int cal(int a);
 
 int main() {                                    35667
@@ -24,6 +27,8 @@ int main() {                                    35667
             }
         } while (s!='\n');
     printf("%d", z);                           asdfasg
+
+    printf("%d", A(z);)
     return 0;
 }
 
