@@ -12,7 +12,7 @@ int main() {
                 z = cal(x);
                 i++;
             }
-//            if(getchar()== '\n')
+            if(getchar()== '\n')
                 break;
             else {
                 s = getchar();
@@ -32,7 +32,7 @@ int cal( int a) {
     int A, B=0, c=0;
     char d=0;
     scanf("%d ",&c);
-//    if (c == 0)
+    if (c == 0)
         A = 1;
     else
         A = c;
