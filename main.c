@@ -29,7 +29,6 @@ int main() {
     printf("%d", z);
 
     printf("%d", A(z);)
-    return 0;
 }
 
 
