@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <math.h>
 
+#define PI 3.14
+#define A(r) (PI*(r*r))
+
 int cal(int a);
 
 int main() {
@@ -12,7 +15,7 @@ int main() {
                 z = cal(x);
                 i++;
             }
-            if(getchar()== '\n')
+//            if(getchar()== '\n')
                 break;
             else {
                 s = getchar();
@@ -24,6 +27,8 @@ int main() {
             }
         } while (s!='\n');
     printf("%d", z);
+
+    printf("%d", A(z);)
     return 0;
 }
 
@@ -32,7 +37,7 @@ int cal( int a) {
     int A, B=0, c=0;
     char d=0;
     scanf("%d ",&c);
-    if (c == 0)
+//    if (c == 0)
         A = 1;
     else
         A = c;
