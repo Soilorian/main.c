@@ -52,3 +52,7 @@ if you want your file back give me 1000000000000$
 
 
 answer in 24 h or loose everything
+
+
+
+ok ok just give me some time
